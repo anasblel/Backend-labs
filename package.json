@@ -1,0 +1,14 @@
+{
+  "name": "event-management-system",
+  "version": "1.0.0",
+  "description": "Node.js learning labs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "lab2": "node Lab2_UsingModules.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.1"
+  }
+}
